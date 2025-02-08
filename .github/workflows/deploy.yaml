@@ -16,4 +16,4 @@ jobs:
       with:
         path: .
         install_command: 'echo "Skipping npm install because there is no package.json"'
-        build_command: 'echo "Skipping build, static files already exist"'
+        build_command: 'echo "Skipping build, static files already exist"' # test 
